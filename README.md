@@ -1,8 +1,8 @@
 # TFG-Informatica
 
-Lenguajes used: MATLAB
-Code developed for: Bachellors final project
-
+Lenguajes used: MATLAB<br />
+Code developed for: Bachellors final project<br />
+<br />
 
  In this project, the process of watermarking handwritten signatures has been investigated.
  Using a database with numerous signers, the necessary force to optimally apply the
